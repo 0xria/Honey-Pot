@@ -8,3 +8,6 @@ Entry-level threat intelligence + networking.
 
 This teaches you attacker tactics and builds skills in network security and monitoring.
 
+How to access:
+
+git clone 
