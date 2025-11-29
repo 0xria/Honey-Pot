@@ -10,4 +10,6 @@ This teaches you attacker tactics and builds skills in network security and moni
 
 How to access:
 
-git clone 
+git clone https://github.com/0xria/Honey-Pot.git
+
+cd Honeypot
